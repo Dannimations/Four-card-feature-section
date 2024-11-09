@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Figtree:ital,wght@0,300..900;1,300..900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Overpass:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Young+Serif&display=swap');
+body{
+    background-color: #fafafa;
+    font-family: Poppins;
+}
+p{
+    color: #b7b6bb;
+}
+#introText{
+    text-align: center;
+}
+.box{
+    /* border: 5px solid; */
+    box-shadow: 0px 20px 20px #d8e1ea;
+    width: 25%;
+    border-radius: 7px;
+    padding-bottom: 20px;
+    /* position: relative; */
+}
+.box img{
+    margin-left: 75%;
+}
+#supervisor{
+    border-top: #43d3d3 5px solid;
+    padding: 0px 20px;
+    box-shadow: 0px 20px 20px #d8e1ea;
+    width: 25%;
+    border-radius: 7px;
+    padding-bottom: 20px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 90px;
+}
+#supervisor img{
+    margin-left: 75%;
+}
+#teamBuilder{
+    margin-left: 36%;
+    margin-top: -30px;
+    border-top: #ec5355 5px solid;
+    padding: 0px 20px;
+    box-shadow: 0px 20px 20px #d8e1ea;
+    width: 25%;
+    border-radius: 7px;
+    padding-bottom: 20px;
+}
+#teamBuilder img{
+    margin-left: 75%;
+}
+#karma{
+    border-top: #fbad4b 5px solid;
+    padding: 0px 20px;
+    box-shadow: 0px 20px 20px #d8e1ea;
+    width: 25%;
+    border-radius: 7px;
+    padding-bottom: 20px;
+    margin-left: 36%;
+}
+#karma img{
+    margin-left: 75%;
+}
+#calculator{
+    border-top: #529ef2 5px solid;
+    padding: 0px 20px;
+    box-shadow: 0px 20px 20px #d8e1ea;
+    width: 25%;
+    border-radius: 7px;
+    padding-bottom: 20px;
+    margin-left: 70%;
+    margin-top: -360px;
+}
+#calculator img{
+    margin-left: 75%;
+}
